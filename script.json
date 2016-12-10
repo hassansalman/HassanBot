@@ -1,7 +1,7 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Hassan, a Product Marketer from San Francisco.\n![hassan](https://raw.githubusercontent.com/hassancrawford/smooch-bot-example/master/img/hassan.jpg)\nWant to know more about bots or learn about Hassan? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Hassan](postback:learn_about_hassan) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set HassanBot up! Do you want to tell Hassan that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Hassan so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Hassan](http://bit.ly/hassanbot-tweet)",
+    "HELLO": "Hey, I'm so glad you set HassanBot up! Do you want to tell Hassan that you're talking to him bot? %[Tell him](postback:twitter)",
+    "TELL HER": "Let's tweet @ Hassan so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Hassan](http://bit.ly/hassanbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, HassanBot is back."
