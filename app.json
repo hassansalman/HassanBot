@@ -2,7 +2,7 @@
   "name": "HassanBot",
   "description": "Hassan, bot.",
   "keywords": ["hassan", "bot", "express"],
-  "website": "https://hassanbot.com",
+  "website": "https://hassanbot.herokuapp.com",
   "repository": "https://github.com/hassansalman/HassanBot",
   "logo": "http://www.hassanbot.com/wp-content/uploads/2016/03/HassanBot-photo.png",
   "env": {
